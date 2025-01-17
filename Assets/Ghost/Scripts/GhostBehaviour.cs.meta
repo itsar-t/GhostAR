@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c2aff4f00bebc0941a50e515f12b0d58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ghostPrefab: {fileID: 2071521388683607599, guid: 01703596038211b42b1d1d8446170758, type: 3}
+  - myCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

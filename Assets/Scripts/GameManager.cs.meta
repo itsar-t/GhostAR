@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fce55c5202f03fd439013d46fbfb290f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - raycastManager: {instanceID: 0}
+  - planeManager: {instanceID: 0}
+  - ghostPrefab: {fileID: 2071521388683607599, guid: 01703596038211b42b1d1d8446170758, type: 3}
+  - projectilePrefab: {fileID: 311553264954145661, guid: 498950cb9a7bfd94f8fa0be5804c6907, type: 3}
+  - arCamera: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
